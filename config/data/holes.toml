@@ -2982,19 +2982,19 @@ synopsis = 'Sort a list of words using a scrambled alphabet'
 preamble = '''
 <p>Given a scrambled alphabet and a set of words, print the words in alphabetical order according to the given alphabet.</p>
 <p>Each argument consists of a scrambled alphabet and a series of words.</p>
-<h3>Example 1</h3>
-<p>input</p>
+<p>Example 1</p>
+<p>Input</p>
 <pre>abcdefghijklmnopqrstuvwxyz cantaloupe banana apple</pre>
-<p>output</p>
+<p>Output</p>
 <pre>
 apple
 banana
 cantaloupe</pre>
 <p></p>
-<h3>Example 2</h3>
-<p>input</p>
+<p>Example 2</p>
+<p>Input</p>
 <pre>dgucsmzebrihvypkxqntfwloja cantaloupe banana apple</pre>
-<p>output</p>
+<p>Output</p>
 <pre>
 cantaloupe
 banana
